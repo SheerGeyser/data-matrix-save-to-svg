@@ -1,8 +1,3 @@
-# data-matrix-save-to-svgКонечно! Вот пример `README.md` для твоей программы, которая сканирует Data Matrix-коды и сохраняет их в SVG:
-
----
-
-```markdown
 # DataMatrix SVG Generator (CLI)
 
 Простая терминальная программа на Go, которая:
